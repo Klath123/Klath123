@@ -15,6 +15,13 @@
 
 ---
 
+
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=plastic&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17PIGT4bt5z0umk4WjMIt4Rk-HLLIVFVh/view)
+
+---
+
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
